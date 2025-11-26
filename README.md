@@ -1,5 +1,3 @@
-# 🧠 
-
 <h1 align="center">
   FINE: Factorized Multimodal Sentiment Analysis via Mutual Information Estimation
 </h1>
