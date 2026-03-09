@@ -5,7 +5,8 @@
 <p align="center">
   <a href="http://arxiv.org/abs/2511.20167">📘 Arxiv</a>
 </p>
-## 📢News
+
+## 📢 News
 
 [2025.11.08]  🎉🎉🎉 Our FINE has been accepted at AAAI 2026 Oral!
 
