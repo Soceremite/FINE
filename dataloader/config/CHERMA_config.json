@@ -1,0 +1,12 @@
+{
+    "raw_data_path":"/data2/lyd/MSA/dataset/CHERMA/CHERMA0723",
+    "samples_per_class_7":[3514,1902,1453,2073,3578,3059,1651],
+    "min_label":0,
+    "max_label":6,
+    "audio_max_len": 48,
+    "text_max_len": 160,
+    "vision_max_len": 500,
+    "input_dim_a":1024,
+    "input_dim_t":1024,
+    "input_dim_v":2048
+}

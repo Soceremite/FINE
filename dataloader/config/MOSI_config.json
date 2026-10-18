@@ -1,0 +1,10 @@
+{
+    "raw_data_path":"/data2/lyd/MSA/dataset/MOSI/processed/unaligned_50.pkl",
+    "align_data_path":"/data2/lyd/MSA/dataset/MOSI/processed/aligned_50.pkl",
+    "samples_per_class_7":[24, 199, 227, 248, 227, 313, 46],
+    "min_label":-3,
+    "max_label":3,
+    "input_dim_a":5,
+    "input_dim_t":768,
+    "input_dim_v":20
+}

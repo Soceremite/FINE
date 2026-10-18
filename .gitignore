@@ -1,0 +1,36 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# PyTorch
+*.pth
+*.pt
+
+# Results and logs
+results/
+best_results/
+shared/
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data
+*.h5
+*.pkl
+*.hdf5
+
+.qoder/
+
+# OS
+.DS_Store
+Thumbs.db

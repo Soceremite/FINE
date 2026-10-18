@@ -1,0 +1,12 @@
+{
+    "data_path":"/data2/lyd/MSA/dataset/URFUNNY/ur_funny.pkl",
+    "samples_per_class_2":[3804,3810],
+    "max_seq_length":80,
+    "min_label":0,
+    "max_label":1,
+    "input_dim_a":60,
+    "input_dim_a_origin":81,
+    "input_dim_t":768,
+    "input_dim_v_origin":91,
+    "input_dim_v":36
+}

@@ -1,0 +1,16 @@
+{
+    "raw_data_path":"/data2/lyd/MSA/dataset/VAD",
+    "samples_per_class_3_V":[4648, 4366, 4557],
+    "min_label_V":1,
+    "max_label_V":3,
+    "min_label_A":1,
+    "max_label_A":3,
+    "min_label_PE":1,
+    "max_label_PE":12,
+    "audio_max_len": 48,
+    "text_max_len": 23,
+    "vision_max_len": 72,
+    "input_dim_a":128,
+    "input_dim_t":768,
+    "input_dim_v":2048
+}
