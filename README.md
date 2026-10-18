@@ -123,13 +123,13 @@ Make sure pretrained weights are placed under `best_results/` before testing.
 If you find our work helpful for your research, please consider giving a star and citation.
 
 ```tex
-@misc{liu2025finefactorizedmultimodalsentiment,
-      title={FINE: Factorized multimodal sentiment analysis via mutual INformation Estimation}, 
-      author={Yadong Liu and Shangfei Wang},
-      year={2025},
-      eprint={2511.20167},
-      archivePrefix={arXiv},
-      primaryClass={cs.MM},
-      url={https://ojs.aaai.org/index.php/AAAI/article/view/37176}, 
+@inproceedings{liu2026fine,
+  title={FINE: Factorized multimodal sentiment analysis via mutual information estimation},
+  author={Liu, Yadong and Wang, Shangfei},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={3},
+  pages={1955--1963},
+  year={2026}
 }
 ```
