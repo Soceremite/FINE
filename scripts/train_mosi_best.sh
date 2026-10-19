@@ -32,21 +32,21 @@ cmd="python train.py --dataset_name=MOSI --model=fine
 --num_experts=8
 --topk_ratio=0.75
 --min_queue_len=16
---queue_ratio=0.5
+--queue_ratio=0.7
 --criterion_loss=mse
---uni_weight=0.4 --multi_weight=1.0
---aux_weight=0.3
---dec_weight=0.4 --recon_weight=0.4
---sha_weight=0.4 --tu_weight=0.4 --sha_ir_weight=0.4
---cl_weight=2.0
+--uni_weight=0.5 --multi_weight=1.0
+--aux_weight=0.2
+--dec_weight=0.5 --recon_weight=0.5
+--sha_weight=0.5 --tu_weight=0.5 --sha_ir_weight=0.5
+--cl_weight=1.0
 --con_loss=acccon
 --cls_layers=128,32 --dropout_rate=0.3
 --niter=10 --niter_decay=90 --print_freq=10
---batch_size=64
+--batch_size=32
 --optimizer_mode=adamw
 --lr_policy=linear_with_warmup
 --patience=5
---lr=1e-4 --bert_lr=5e-5 --mi_lr=1e-4
+--lr=6e-5 --bert_lr=5e-5 --mi_lr=6e-5
 --weight_decay=5e-4
 --eval_batch_size=64
 --suffix=run_{gpu_ids}_{run_idx}
