@@ -29,7 +29,7 @@ cmd="python train.py --dataset_name=MOSI --model=fine
 --query_token_len=8
 --qformer_heads=2
 --qformer_layers=2
---num_experts=8
+--num_experts=4
 --topk_ratio=0.75
 --min_queue_len=16
 --queue_ratio=0.7
